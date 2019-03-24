@@ -2,7 +2,6 @@ def instantiate_new_array
   []
 end
 
-def array_with_two_elements(array)
-  array = ["dog", "cat"]
-  return array
+def array_with_two_elements
+  ["dog", "cat"]
 end
