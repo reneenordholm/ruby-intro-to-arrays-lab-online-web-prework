@@ -4,4 +4,5 @@ end
 
 def array_with_two_elements(array)
   array = ["dog", "cat"]
+  return array
 end
